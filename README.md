@@ -8,4 +8,4 @@ Receive thre values and multiplies each values for ten.
 
 ### Demo
 
-![alt text](https://imgur.com/a/8bVR3bs)
+![alt text](https://i.imgur.com/A29MKwz.png)
