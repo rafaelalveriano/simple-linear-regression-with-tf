@@ -1,0 +1,15 @@
+{
+  "author": "Rafael Augusto",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@tensorflow/tfjs-node": "^3.14.0"
+  },
+  
+  "scripts": {
+    "train": " export TF_CPP_MIN_LOG_LEVEL=2 && nodemon --experimental-specifier-resolution=node app.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
